@@ -1,2 +1,5 @@
 # Celine-et-Julie
-Cinema | Art 
+
+Hello Universe '.'
+
+This is Celine, from Earth.
