@@ -1,5 +1,5 @@
 # Celine-et-Julie
 
-Hello Universe '.'
+Hello Universe ' . '
 
 This is Celine, from Earth.
